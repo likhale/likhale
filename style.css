@@ -1,0 +1,194 @@
+body{
+    background-color: white;
+    color: black;
+    
+
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+<
+h4{
+    text-align: center;
+}
+.pg{
+    background-color: white;
+   
+}
+.bg{
+    color: black;
+    background-color: whitesmoke;
+}
+.hd{
+   text-align: center;
+}
+section{
+    display: inline-flex;
+    justify-content: space-around;
+
+}
+img.five{
+    width: 350px;
+}
+
+.b{
+    font-size: 30px;
+}
+b{
+    font-size: 60px;
+}
+.awe{
+    background-color: aliceblue;
+}
+.age{
+     border: 2px solid whitesmoke;
+    padding: 6px;
+    margin: 0px 0px;
+    height: 350px;
+    width:400px;
+    text-align: center;
+
+}
+.three{
+    background-color: white;
+    height: 250px;
+    width:405px;
+    margin: 0px;
+}
+div article{
+    display: inline-flex;
+    justify-content: space-around;
+}
+article{
+    border: 2px solid skyblue;
+    padding: 6px;
+    margin: 5px 5px;
+    height: 240px;
+    width:400px;
+    display: inline-block;
+
+}
+.frs{
+    display: inline-flex;
+    justify-content: space-between;
+    background-color:seashell ;
+}
+.wok{
+    background-color: skyblue;
+}
+.four{
+    background-color: skyblue;
+}
+.page{
+    height: 100vh;
+    width: 100vw;
+    background: cover;
+
+}
+ul{
+    justify-items: flex-end;
+}
+
+li{
+    display: inline-flex;
+    text-align: end;
+    padding: 5px;
+}
+header{
+    display: flex;
+    align-items: baseline;
+}
+a{
+    align-items: flex-end;
+    border: 1px;
+    padding: 6px;
+    text-decoration: none;
+    color: black;
+    
+}
+li :hover{
+border: 1px solid skyblue;
+background-color: skyblue;
+    border-radius: 20px;
+    padding: 6px;
+    color: white;
+}    
+
+header li{
+    justify-items: flex-end;
+
+}
+h1{
+    padding-right: 600px;
+}
+.wk{
+    background-color: skyblue;
+    padding:6px;
+    border: 1px solid skyblue;
+    border-radius: 12px;
+    color: black;
+}
+.wk:hover{
+    
+border: 1px solid white;
+border-radius: 20px;
+padding: 6px;
+color: white;
+}
+ 
+.ser3{
+    background-color: skyblue;
+
+}
+.ser1{
+    background-color: skyblue;
+}
+.khale{
+    display: flex;
+    margin-left: 10px;
+    justify-content: space-around;
+
+}
+.khale img{
+    height: 100px;
+    width: 120px;
+    margin: 40px 0px;
+
+}
+.khale div{
+    border: 2px solid whitesmoke;
+    margin: 0px;
+    border-radius: 20px;
+    height: 350px;
+    width: 400px;
+}
+a img{
+    height: 50px;
+    width: 50px;
+}
+.ent{
+    text-align: center;
+    background-color: white;
+}
+.nna{
+    border-radius: 85%;
+    overflow: hidden;
+    height: 120px;
+    width: 120px;
+}
+div{
+    text-align: center;
+}
+.it{
+    background-color:whitesmoke ;
+}
+.five{
+    background-color: peachpuff;
+    overflow: hidden;
+}
+.kha{
+    background-color: skyblue;
+}
